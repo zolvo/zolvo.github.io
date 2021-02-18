@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/zolvo.github.io/portfolio/static/css/main.e9b45ef5.chunk.css",
+    "main.js": "/zolvo.github.io/portfolio/static/js/main.84d353f8.chunk.js",
+    "main.js.map": "/zolvo.github.io/portfolio/static/js/main.84d353f8.chunk.js.map",
+    "runtime-main.js": "/zolvo.github.io/portfolio/static/js/runtime-main.a78fe081.js",
+    "runtime-main.js.map": "/zolvo.github.io/portfolio/static/js/runtime-main.a78fe081.js.map",
+    "static/js/2.2db402f8.chunk.js": "/zolvo.github.io/portfolio/static/js/2.2db402f8.chunk.js",
+    "static/js/2.2db402f8.chunk.js.map": "/zolvo.github.io/portfolio/static/js/2.2db402f8.chunk.js.map",
+    "index.html": "/zolvo.github.io/portfolio/index.html",
+    "static/css/main.e9b45ef5.chunk.css.map": "/zolvo.github.io/portfolio/static/css/main.e9b45ef5.chunk.css.map",
+    "static/js/2.2db402f8.chunk.js.LICENSE.txt": "/zolvo.github.io/portfolio/static/js/2.2db402f8.chunk.js.LICENSE.txt",
+    "static/media/apron.5ce0eb8b.jpg": "/zolvo.github.io/portfolio/static/media/apron.5ce0eb8b.jpg",
+    "static/media/coredump.45883903.jpg": "/zolvo.github.io/portfolio/static/media/coredump.45883903.jpg",
+    "static/media/firstdraft.d468eaa2.jpg": "/zolvo.github.io/portfolio/static/media/firstdraft.d468eaa2.jpg",
+    "static/media/fluid.500c222e.mp4": "/zolvo.github.io/portfolio/static/media/fluid.500c222e.mp4",
+    "static/media/pekopeko.b088cc85.jpg": "/zolvo.github.io/portfolio/static/media/pekopeko.b088cc85.jpg",
+    "static/media/pic.c225b72b.jpg": "/zolvo.github.io/portfolio/static/media/pic.c225b72b.jpg",
+    "static/media/test.1c6f4adc.mp4": "/zolvo.github.io/portfolio/static/media/test.1c6f4adc.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a78fe081.js",
+    "static/js/2.2db402f8.chunk.js",
+    "static/css/main.e9b45ef5.chunk.css",
+    "static/js/main.84d353f8.chunk.js"
+  ]
+}
