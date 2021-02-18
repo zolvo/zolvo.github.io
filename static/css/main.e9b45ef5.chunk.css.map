@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AACA,EACE,QAAS,CACT,+BAAgC,CAChC,UACF","file":"main.e9b45ef5.chunk.css","sourcesContent":["/* TODO Add site wide styles */\n* {\n  margin: 0;\n  font-family: open sans condensed;\n  color:white;\n}\n"]}
